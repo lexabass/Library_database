@@ -10,6 +10,13 @@ The application has a system of accounts with access rights.
 ***
 # RUN PROJECT EXE
 # bin/Debug/Library.exe
+login accounts in bin/Debug/Library.mdb database
+
+login director 
+
+pudge
+
+pudge
 
 ***
 **Some screenshots**
